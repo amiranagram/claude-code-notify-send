@@ -17,7 +17,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "notify-send -u low -i dialog-information 'Claude Code' 'Response complete'",
+            "command": "notify-send -u normal -i dialog-information 'Claude Code' 'Response complete'",
             "async": true
           }
         ]
