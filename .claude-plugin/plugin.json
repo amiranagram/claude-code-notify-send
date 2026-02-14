@@ -1,0 +1,11 @@
+{
+  "name": "notify-send",
+  "version": "1.0.0",
+  "description": "Desktop notifications for Claude Code via notify-send (Linux/Wayland/X11)",
+  "author": {
+    "name": "Amir Rami"
+  },
+  "repository": "https://github.com/amiranagram/claude-code-notify-send",
+  "license": "MIT",
+  "keywords": ["notifications", "notify-send", "linux", "wayland", "fedora"]
+}

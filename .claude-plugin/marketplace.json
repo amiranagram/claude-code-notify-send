@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-notify-send",
+  "description": "Desktop notifications for Claude Code via notify-send",
+  "plugins": [
+    {
+      "name": "notify-send",
+      "description": "Desktop notifications for Claude Code via notify-send (Linux/Wayland/X11)",
+      "version": "1.0.0",
+      "source": "."
+    }
+  ]
+}
